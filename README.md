@@ -1,0 +1,2 @@
+# PayloadsClasses_scanner
+该项目是基于深度学习识别web漏洞简单的payload识别分类
